@@ -1,6 +1,14 @@
 #include <iostream>
 #include <assert.h>
 
+/**
+ *  try with inputs:
+ *  w 5
+ *  5 12
+ *
+ *  both fail, first at the first assert and second at second assert
+ */
+
 int main(){
     const int max = 10;
     char c;
